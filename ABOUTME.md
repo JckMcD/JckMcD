@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JckMcD
+- 👀 I’m interested in Web Development and Scripts for Businesses
+- 🌱 I’m currently learning TKinter Python Scripts, Web Design, and Portable Programming
+- 📫 How to reach me: linkedin.com/in/jackson-mcdaniel
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My best time for solving a Rubiks Cube is 20 seconds
